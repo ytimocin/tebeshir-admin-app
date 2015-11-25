@@ -1,0 +1,169 @@
+body {
+    background-color: #fff;
+}
+
+.post-message  {
+    padding-left: 10px;
+    float:left;
+    width: 400px;
+    height: 200px;
+}
+
+label {
+    display:block;
+    width: 120px;
+    float:left;
+
+}
+input {
+
+    width: 150px;
+    padding: 5px;	
+    border:solid 1px #cdcdcd;
+    border-radius: 4px;
+}
+del {
+    text-decoration: none;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #000;	
+    line-height: normal;
+    text-align: center;
+}
+
+#login {
+    width: 1000px;
+    margin-left: -500px;
+    position: absolute;
+    left: 50%;
+    top: 100px;
+}
+.login_sol {
+    float:left;
+    width: 700px;
+    border-radius: 3px;
+}
+.login_sol1 {
+    float:left;
+    width: 700px;
+    height: 450px;
+    border-radius: 3px;
+}
+.login_sol1 img {
+    overflow: hidden;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+}
+.login_alt {
+    float:left;
+    margin-top: 3px;
+    padding-top: 15px;
+    width: 1000px;
+    height: 25px;
+    border-radius: 3px;
+    background-color: #CDCDCD;
+}
+.login_sag {
+    margin-left: 3px;
+    float:left;
+    width: 297px;
+    border-radius: 3px;
+}
+.login_sag_login {
+    float:left;
+    width: 297px;
+    border-radius: 3px;
+}
+.login_sag_login_title {
+    float:left;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 287px;
+    height: 25px;
+    border-radius: 3px;
+    background-image: url(../images/index/index_2.JPG);
+}
+.login_sag_login_info {
+    margin-top: 3px;
+    float:left;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 287px;
+    height: 142px;
+    border-radius: 3px;
+    background-color: #DBDADA;
+}
+.login_sag_account {
+    float:left;
+    width: 297px;
+    border-radius: 3px;
+}
+.login_sag_account_title {
+    margin-top: 3px;
+    float:left;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 287px;
+    height: 25px;
+    border-radius: 3px;
+    background-image: url(../images/index/index_2.JPG);
+}
+.login_sag_account_info {
+    margin-top: 3px;
+    float:left;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 287px;
+    height: 227px;
+    border-radius: 3px;
+    background-color: #DBDADA;
+}
+
+del1 {
+    text-decoration: none;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #fff;	
+    line-height: normal;
+    text-align: center;
+}
+del2 {
+    text-decoration: none;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #000;	
+    line-height: normal;
+    text-align: center;
+}
+del3 {
+    text-decoration: none;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    color: #000;	
+    line-height: normal;
+    text-align: center;
+}
+
+input {
+
+    width: 150px;
+    padding: 5px;	
+    border:solid 1px #cdcdcd;
+    border-radius: 4px;
+}
+p{
+    margin: 0 0 10px 0;	
+}
+
+.buton {
+    width:160px;
+    border:solid 1px #cdcdcd;
+    height: 30px;
+}
